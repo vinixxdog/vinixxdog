@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 💙
 
-<!--
-**vinixxdog/vinixxdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinicius Prates Cardoso José
 
-Here are some ideas to get you started:
+-Estou estudando no Alura 
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo 📧
+
+00001116348895sp@al.educacao.sp.gov.br
+
+@prates.cxi
+
+
+https://media1.tenor.com/m/eebxXepTwbMAAAAC/rhino-shit.gif
